@@ -116,4 +116,13 @@ export const data = [
     price: "50",
     category: "clothes",
   },
+    {
+    id: "cl-003",
+    pictureName: "T Shirt",
+    uri:
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=282&q=80",
+    seller: "lala@gmail.com",
+    price: "50",
+    category: "clothes",
+  },
 ];
